@@ -2,11 +2,11 @@
     "apiexploresmg": [
         {
             "id": 1,
-            "title": "Keep William Writing",
+            "title": "Bantu Giri Mendapat Laptop Baru",
             "category": "Business",
             "thumbnail": "https://live.staticflickr.com/2569/4013944382_469787def0_z.jpg",
-            "pledged": 0,
-            "target": 15670000,
+            "pledged": 1000,
+            "target": 10000,
             "date_end": 1613581200000,
             "profile_photo": "https://live.staticflickr.com/3172/2972948615_f60cbd939d_z.jpg",
             "profile_name": "Emily Waldon"
