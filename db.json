@@ -2,25 +2,25 @@
     "apiexploresmg": [
         {
             "id": 1,
-            "title": "Bantu Giri Mendapat Laptop Baru",
-            "category": "Device",
-            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/exploresemarang-donasi.appspot.com/o/teslaptop.jpg?alt=media&token=841fa875-ace9-4a85-b2ec-5b72fa60ac47",
-            "pledged": 750000,
-            "target": 23000000,
-            "date_end": 3600,
-            "profile_photo": "https://scontent.fsrg6-1.fna.fbcdn.net/v/t39.30808-6/312874096_2571083193034319_5717138172710734066_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE030h3TBNdTNDMU_ZZ_gA_RBhmDUNjiXZEGGYNQ2OJdrxzrQ7RMbXtmDuieYvBhNCHBkAPgFuDbP-_S4_7HLnV&_nc_ohc=77pZY8owl9YAX90Jk-B&_nc_ht=scontent.fsrg6-1.fna&oh=00_AfA5GAurIJ_zPbtCrfKsp5ZxCzTNOmVVdpzycvTDGOm6Vg&oe=636CC6A2",
-            "profile_name": "Giri"
+            "title": "Bantuan Untuk Anak-Anak Panti Asuhan Ahbaabul Mustofa",
+            "category": "Donasi",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/exploresemarang-donasi.appspot.com/o/pantites.jpg?alt=media&token=d4ba5ef5-f1cd-4ef5-a635-810ae50569eb",
+            "pledged": 14000,
+            "target": 10000000,
+            "date_end": 432,000,000,
+            "profile_photo": "https://firebasestorage.googleapis.com/v0/b/exploresemarang-donasi.appspot.com/o/dhea.png?alt=media&token=bd51a366-d3d4-45ba-8bdf-f52626a3a2db",
+            "profile_name": "Nadia Khansa Qatrunnada"
           },
           {
             "id": 2,
-            "title": "One Laptop Per Child",
-            "category": "Child",
-            "thumbnail": "https://live.staticflickr.com/2569/4013944382_469787def0_z.jpg",
-            "pledged": 100000,
-            "target": 100000000,
-            "date_end": 1629133200000,
-            "profile_photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Profile_Pic_Peepsys_Eye_2019.jpg/480px-Profile_Pic_Peepsys_Eye_2019.jpg",
-            "profile_name": "Rina Rubina"
+            "title": "Bantuan Untuk Anak-Anak Panti Asuhan Darul Husna",
+            "category": "Donasi",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/exploresemarang-donasi.appspot.com/o/pantites2.jpg?alt=media&token=e7da3591-ece6-42ec-b275-26895b4b9ad6",
+            "pledged": 0,
+            "target": 10000000,
+            "date_end": 259,200,000,
+            "profile_photo": "https://firebasestorage.googleapis.com/v0/b/exploresemarang-donasi.appspot.com/o/dhea.png?alt=media&token=bd51a366-d3d4-45ba-8bdf-f52626a3a2db",
+            "profile_name": "Nadia Khansa Qatrunnada"
           }
     ],
     "comments": [
